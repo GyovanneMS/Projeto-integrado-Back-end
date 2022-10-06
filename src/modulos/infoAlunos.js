@@ -731,6 +731,8 @@ const infoAlunos = function(nomeCurso, qualStatus){
     }
 }
 
+
+
 const infoUmAluno = function(matricula){
     let aluno = matricula
     let erro = true;
