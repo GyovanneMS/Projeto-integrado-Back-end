@@ -20,7 +20,7 @@ var cursos = [
         "carga" :   "1200"
     },
     {
-        "nome"  :   "003 - Técnico em Biodivercidade",
+        "nome"  :   "003 - Técnico em Biodiversidade",
         "sigla" :   "BAP",
         "icone" :   "https://cdn-icons-png.flaticon.com/512/7050/7050475.png",
         "carga" :   "1200"
