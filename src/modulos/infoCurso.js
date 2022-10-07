@@ -21,7 +21,7 @@ var cursos = [
     },
     {
         "nome"  :   "003 - Técnico em Animais",
-        "sigla" :   "Animalia",
+        "sigla" :   "Animal",
         "icone" :   "https://cdn-icons-png.flaticon.com/512/3397/3397478.png",
         "carga" :   "1200"
     }
