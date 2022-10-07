@@ -693,17 +693,17 @@ var alunos = [
         /* */
         ,
         {
-            "foto"  : "https://cdn.icon-icons.com/icons2/1879/PNG/512/iconfinder-8-avatar-2754583_120515.png",
-            "nome"  : "José Matheus da Silva Miranda",
+            "foto"  : "https://cdn-icons-png.flaticon.com/512/7743/7743312.png",
+            "nome"  : "Capivara",
             "matricula" : "20151001024",
             "sexo"  :   "M",
             "curso" : [
                 {
-                    "nome"  :   "001 - Técnico em Biodiversidade",
-                    "sigla" :   "DS",
-                    "icone" :   "https://image.shutterstock.com/image-vector/api-interface-vector-icon-600w-659203513.jpg",
+                    "nome"  :   "003 - Técnico em Biodiversidade",
+                    "sigla" :   "BAP",
+                    "icone" :   "https://cdn-icons-png.flaticon.com/512/7050/7050475.png",
                     "carga" :   "1200",
-                    "conclusao" :   "2023",
+                    "conclusao" :   "Indefinida",
                     "disciplinas"   :   [
                         {
                             "nome"  :   "Sistemas Operacionais",
