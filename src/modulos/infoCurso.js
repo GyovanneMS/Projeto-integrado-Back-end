@@ -18,6 +18,12 @@ var cursos = [
         "sigla" :   "RDS",
         "icone" :   "https://img.icons8.com/ultraviolet/344/thin-client.png",
         "carga" :   "1200"
+    },
+    {
+        "nome"  :   "003 - Técnico em Animais",
+        "sigla" :   "Animalia",
+        "icone" :   "https://cdn-icons-png.flaticon.com/512/3397/3397478.png",
+        "carga" :   "1200"
     }
 ];
 
